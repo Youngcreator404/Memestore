@@ -1,0 +1,116 @@
+ <!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Digital Meme Store</title>
+</head>
+<body>
+  <header>
+    <h1>Welcome to Our Digital Meme Store</h1>
+    <p>Discover a wide range of high-quality digital memes for purchase.</p>
+  </header>
+
+  <main>
+    <section>
+      <h2>Featured memes </h2>
+      <!-- Add your featured video thumbnails here with links to the individual video pages -->
+      <div class="video-thumbnail">
+        <a class = "button" href = "Www.youtube.com"
+          <img src="" alt="Meme">
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Button as a Link</title>
+  <style>
+    /* Style the button to make it look like a regular button */
+    .button {
+      display: inline-block;
+      padding: 10px 20px;
+      background-color: #007BFF;
+      color: #fff;
+      text-decoration: none;
+      border: none;
+      border-radius: 4px;
+      cursor: pointer;
+    }
+
+    /* Change the button style when hovering over it */
+    .button:hover {
+      background-color: #0056b3;
+    }
+  </style>
+</head>
+<body>
+  <!-- The button that acts like a link -->
+  <a class="button" href="">Click me for the custom meme link it only works when you pay and contact us</a>
+</body>
+</html>
+
+        </a>
+        <p>custom meme if you want to make a custom meme you must contact us at our email and tell us wha kind of meme you would like.</p>
+        <p>Price: €9.99 for a 2 min long meme if you want a 1 hour loop that would be €29.99</p>
+<html>
+<head>
+      </div>
+    <div class="video-thumbnail">
+    <a href="www.youtube.com">
+    </form>
+</body>
+</html>
+
+      </div>
+
+      <div class="video-thumbnail">
+        <a href="www.youtube.com">
+          <img src="path/to/video2-thumbnail.jpg" alt="More memes ">
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Button as a Link</title>
+  <style>
+    /* Style the button to make it look like a regular button */
+    .button {
+      display: inline-block;
+      padding: 10px 20px;
+      background-color: #007BFF;
+      color: #fff;
+      text-decoration: none;
+      border: none;
+      border-radius: 4px;
+      cursor: pointer;
+    }
+
+    /* Change the button style when hovering over it */
+    .button:hover {
+      background-color: #0056b3;
+    }
+  </style>
+</head>
+<body>
+  <!-- The button that acts like a link -->
+  <a class="button" href="https://youtu.be/5DADtXVTVV4">Click Me for another meme</a>
+</body>
+</html>
+
+        </a>
+        <p>deez nuts digital </p>
+        <p>Price: €0.49</p><!DOCTYPE html>
+<html>
+<head>Transaction">
+    </form>
+</body>
+</html>
+
+      </div>
+      <!-- Add more video thumbnails as needed -->
+    </section>
+  </main>
+
+  <footer>
+    <p>Contact us at yourmom6919@outlook.com</p>
+  </footer>
+</body>
+</html>
